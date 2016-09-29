@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RegularPolygonView">
+        <attr name="n" format="integer"/>
+        <attr name="level" format="integer"/>
+    </declare-styleable>
+</resources>
